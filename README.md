@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aayush920
 - 👀 I’m interested in competitive programming and web development.
-- 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -saayush053@gmail.com
 
